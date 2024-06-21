@@ -1,0 +1,1 @@
+This repository contains my projects for my Natural Language Processing class (CS 631V) at Pace University. The actual name of the class was "Topic: Intelligent Agents", but it was mainly concerned with NLP.
